@@ -15,5 +15,6 @@ We divided the experiment in three steps, each one asking ourselves the followin
 1. By only using Feed Forward Neural Networks how far can we get in classifying images of traffic signs?
 2. Can we outperforms the previous results using Convolutional Neural Networks?
 3. Can we still boost the performances using Transfer Learning?
+
 Finally we took the best performing network, both in accuracy and in inference time, and included it on top of an Region Proposal Network and evaluated the results.
 You can find all the process followed in the final report file called **report.pdf**
