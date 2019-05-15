@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554739569888.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1823860472",
+    "id" : "39E17113",
+    "lastKnownWriteTime" : 1554739793,
+    "last_content_update" : 1554739793145,
+    "path" : "C:/Users/manue/gitkraken/traffic_signal_classification_task/utility/text_to_plot/texts.r",
+    "project_path" : "texts.r",
+    "properties" : {
+        "cursorPosition" : "212,0",
+        "scrollLine" : "186",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

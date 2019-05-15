@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554740336358.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6096552",
+    "lastKnownWriteTime" : 7594873766184840291,
+    "last_content_update" : 1554740336358,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ADD56B3D",
+        "caption" : "train_accuracy",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=train_accuracy&cache_key=ADD56B3D",
+        "displayedObservations" : "100",
+        "environment" : "",
+        "object" : "train_accuracy",
+        "preview" : "0",
+        "totalObservations" : "100",
+        "variables" : "3"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

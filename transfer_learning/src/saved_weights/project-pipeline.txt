@@ -1,6 +1,0 @@
-- take a pretrained models from keras.layers
-- train the net (using data augmentation) and save the weights (so that you don't lose time)
-- use the trained model as a feature extractor, to 
-	extract features from train,val,test sets
-- use the new datasets to train a fully connected net from scratch
-  without using data augmentation

@@ -1,0 +1,1 @@
+utility to compare different models by giving as input the Keras training statistics of each model
