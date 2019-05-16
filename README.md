@@ -3,7 +3,9 @@
 In this project we will experiment different techniques for Traffic Sign Classification, then we will include our results on top of a Region Proposal Network to build a full Traffic Sign Detection system. 
 This project has been developed during the Unit 3 of the Deep Learning at the Universidad Politecnica de Madrid (2019), and it has been evaluated as part of the exam.
 
-<center> ![example1](examples/1.png) </center>
+<p align="center">
+  <img src="examples/1.png"></img>
+</p>
 
 ## Authors
 - [Manuel Scurti](https://github.com/return00000)
